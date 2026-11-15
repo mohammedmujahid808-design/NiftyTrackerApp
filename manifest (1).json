@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mohammedmujahid808-design.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NiftyTracker",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "niftyapp",
+  "description": "Nifty 50 live market tracker and technical signals app"
+}
